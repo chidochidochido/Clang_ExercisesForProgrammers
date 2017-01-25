@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11_Currency_Conversion", "11_Currency_Conversion\11_Currency_Conversion.vcxproj", "{94EE836B-85AB-4F62-A805-8136BCEACADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94EE836B-85AB-4F62-A805-8136BCEACADC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{94EE836B-85AB-4F62-A805-8136BCEACADC}.Debug|Win32.Build.0 = Debug|Win32
+		{94EE836B-85AB-4F62-A805-8136BCEACADC}.Release|Win32.ActiveCfg = Release|Win32
+		{94EE836B-85AB-4F62-A805-8136BCEACADC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

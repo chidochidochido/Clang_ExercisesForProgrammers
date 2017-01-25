@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13_Determining_Compound_Interest", "13_Determining_Compound_Interest\13_Determining_Compound_Interest.vcxproj", "{525DEA6B-3E27-4512-A455-90D3BA287D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{525DEA6B-3E27-4512-A455-90D3BA287D47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{525DEA6B-3E27-4512-A455-90D3BA287D47}.Debug|Win32.Build.0 = Debug|Win32
+		{525DEA6B-3E27-4512-A455-90D3BA287D47}.Release|Win32.ActiveCfg = Release|Win32
+		{525DEA6B-3E27-4512-A455-90D3BA287D47}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
